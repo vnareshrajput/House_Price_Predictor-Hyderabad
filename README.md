@@ -342,7 +342,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **V. Naresh Rajput**
-Pre-Final Year Student — Data Science & Analytics
+Final Year Student — Data Science & Analytics
 Indian Institute of Technology (IIT) Roorkee
 
 - 📧 naresh_v@bt.iitr.ac.in
