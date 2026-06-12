@@ -373,4 +373,4 @@ House_Price_Predictor-Hyderabad/
 
 ---
 
-*Built with ❤️ using Python, Scikit-Learn, and Streamlit*
+*Built with using Python, Scikit-Learn, and Streamlit*
